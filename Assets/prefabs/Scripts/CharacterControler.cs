@@ -13,7 +13,6 @@ public class CharacterControler : MonoBehaviour
 
     float horizantalMove = 0f;
     bool jump = false;
-    bool roll = false;
 
     // Update is called once per frame
     void Update()
